@@ -1,0 +1,1 @@
+curl -X POST -F file=@./test222.png -F save_name="jjjj.png" http://0.0.0.0:8080/
